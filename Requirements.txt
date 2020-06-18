@@ -1,0 +1,4 @@
+pyperclip
+tkinter
+random
+string
